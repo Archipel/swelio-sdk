@@ -12,6 +12,7 @@
 #define _SWELIO_H_
 
 #include <windows.h>
+#include <winscard.h>
 #include "CardStructures.h"
 #include "CardEvents.h"
 
